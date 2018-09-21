@@ -1,11 +1,10 @@
 from bs4 import BeautifulSoup
 import re
 
-# Here is where we will begin scraping
-pageNumber = 19
 
-def page_url_produce(index):
-    page1_url_prefix= "https://www.trademe.co.nz/stores/franklin-engineering-ltd/feedback?page="
+
+def page_url_produce(url, index):
+    page1_url_prefix= url.split('=')[0] + "="
     page1_url_extension = str(index)
     page1_url = page1_url_prefix + page1_url_extension
     return page1_url
@@ -48,12 +47,16 @@ def id_extract(page1_url):
 
     return ans
 
-sellIDList = []
-for i in range(1, pageNumber):
-    page1_url = page_url_produce(i)
-    returnedList = id_extract(page1_url)
-    sellIDList += returnedList
+def gatherIDList(url, pageNumber):
+    sellIDList = []
+    for i in range(1, pageNumber):
+        page1_url = page_url_produce(url, i)
+        returnedList = id_extract(page1_url)
+        sellIDList += returnedList
 
-print(sellIDList)
+    print(sellIDList)
+    return sellIDList
+
+# gatherIDList(19)
 
 

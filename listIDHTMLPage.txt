@@ -4,7 +4,7 @@
 
 
 
-Franklin Engineering Ltd | Trade Me
+Derlook | Trade Me
 
 
 
@@ -30,7 +30,7 @@ window.TradeMe.MemberID = '0';
   "email": null,
   "showLuckyOrange": false,
   "showLuckyOrangeInSell": false,
-  "abTestEventId": "85531a9e-7ffd-46f7-be70-fa96989454d0"
+  "abTestEventId": "83cef606-843b-411d-b46f-c04a894e3ed1"
 }];dataLayer.push({'optOut': false});
 
 
@@ -103,8 +103,8 @@ Harmoney
 
 
 
-2018-09-21T12:56:15
-12:56 pm, 21 Sep
+2018-09-21T15:29:07
+3:29 pm, 21 Sep
 
 Site navigation
 
@@ -505,11 +505,10 @@ Cart
 
 
 
-
 Store help
 
 
-About the storePaymentsShippingReturnsFAQsFeedback
+About the storePaymentsShippingReturnsFAQsContactFeedback
 
 
 
@@ -586,7 +585,7 @@ Unsold items
 
 
 
-Franklin Engineering Ltd >
+Derlook >
                 
 
                     Feedback
@@ -633,177 +632,184 @@ Feedback
          }
 		
 
-2871 positive feedbacks. 2139 are from individual members, and count towards the final rating.2 neutral feedbacks. 6 negative feedbacks. 6 are from individual members, and count towards the final rating.Last logged in: 21 September 2018Member since: July 2011Listings in the last two months: 1096Final rating: 2139 - 6 = 2133Is an authenticated member 
+1448 positive feedbacks. 1295 are from individual members, and count towards the final rating.9 neutral feedbacks. 5 negative feedbacks. 5 are from individual members, and count towards the final rating.Last logged in: 21 September 2018Member since: September 2010Listings in the last two months: 1045Final rating: 1295 - 5 = 1290Is an authenticated member 
 
- Latest 1000 feedbacks, showing 101 to 150 <<   1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
+ Latest 1000 feedbacks, showing 1 to 50 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
  
-onebigc (81
-)
-1/8/18franklin.eng was the seller(#1713230053) awesome trader a++ 
-rosm1 (269
-)
-31/7/18franklin.eng was the seller(#1685776043) Easy fast trade 
-vegaslife (12
-)
-30/7/18franklin.eng was the seller(#1708930121) A++++++ 
-vegaslife (12
-)
-30/7/18franklin.eng was the seller(#1708676592) A+++++ 
-greg45 (422
+croz98 (245
 )
 
-29/7/18franklin.eng was the seller(#1705337159) Grteat fast trade. thanks 
-rmack47 (155
+21/9/18derlook-nz was the sellerSold for $249.00(#1750474344) Top trader,good product ,fast delivery, Thanks 
+peglee1 (7
 )
-28/7/18franklin.eng was the seller(#1703504447) perfect fit and arrived overnight 
-onebigc (81
-)
-28/7/18franklin.eng was the seller(#1706735307) awesome trader 
-haydn264 (11
-)
-28/7/18franklin.eng was the seller(#1675167434) Great trade 
-haydn264 (11
-)
-28/7/18franklin.eng was the seller(#1674682584) Great trade 
-haydn264 (11
-)
-28/7/18franklin.eng was the seller(#1674690834) Great trade 
-haydn264 (11
-)
-28/7/18franklin.eng was the seller(#1670296472) Great trade 
-haydn264 (11
-)
-28/7/18franklin.eng was the seller(#1670130560) Great trade 
-haydn264 (11
-)
-28/7/18franklin.eng was the seller(#1673757291) Great trade 
-haydn264 (11
-)
-28/7/18franklin.eng was the seller(#1670834034) Great trade 
-haydn264 (11
-)
-28/7/18franklin.eng was the seller(#1673603040) Great trade 
-wls99 (10
-)
-27/7/18franklin.eng was the seller(#1707782747) Great communication, quick delivery, awesome trade 
-vanhaa (7
-)
-27/7/18franklin.eng was the seller(#1692049607) Great trader, great product and outstanding quality, very happy thanks 
-coke444 (64
+20/9/18derlook-nz was the sellerSold for $119.00(#1756176689) Love the clock thank you. 
+sarahsimmo (303
 )
 
-26/7/18franklin.eng was the seller(#1682257629) Awesome trade. 
-jrolla323 (133
+16/9/18derlook-nz was the sellerSold for $89.00(#1740153631) Quick, easy trade! 
+saulc (84
 )
-26/7/18franklin.eng was the seller(#1701027847) Awsum trader cheers 
-jrolla323 (133
+16/9/18derlook-nz was the sellerSold for $179.00(#1756642379) Great trade A+ 
+apple412 (21
 )
-26/7/18franklin.eng was the seller(#1698941613) Awsum trader cheers 
-midenightblue (6
+11/9/18derlook-nz was the sellerSold for $760.00(#1748292391) This unit is beautiful. Even better than what we expected. Trader was great to deal with and prompt to answer any questions. Fantastic 
+cando2 (1124
 )
-25/7/18franklin.eng was the seller(#1704525057) great trader 
-k.doggg (18
-)
-25/7/18franklin.eng was the seller(#1677921539) Good trade ???? 
-harryjay (890
+11/9/18derlook-nz was the seller(#1710869060) Great communication, thanks for the trade, A +++ 
+laine9 (174
 )
 
-24/7/18franklin.eng was the seller(#1694591007) Great Trade. A++ 
-jpkiwi2 (45
+4/9/18derlook-nz was the sellerSold for $38.00(#1741668965) Great trader and trade, super fast A++ 
+tomcat68 (365
 )
 
-22/7/18franklin.eng was the seller(#1682260497) top trader, aaaaa++ would trade again 
-highly recommend 
-jpkiwi2 (45
+4/9/18derlook-nz was the sellerSold for $328.00(#1724714832) Really nice unit and well priced. Thank you 
+zac221 (119
+)
+30/8/18derlook-nz was the sellerSold for $135.00(#1739724657) Great trade, communication easy and good quality fantastic product.  Very happy to have found this trader.  thanks!! 
+topcatnzl (44
+)
+30/8/18derlook-nz was the sellerSold for $169.00(#1719500772) great trade again.....Thank you 
+cactus7 (184
 )
 
-22/7/18franklin.eng was the seller(#1678240886) top trader, aaaaa++ would trade again good quality 
-jpkiwi2 (45
+27/8/18derlook-nz was the seller(#1741668965) Planter arrived today, can't recall there being any mention on the listing that one of the legs/rods were bent. Maybe it happened in transit as it only had bubble wrap around it - I personally would of boxed it especially as it cost $15 postage. Not very happy.  trader responded:27/8/18 Hi there, we apologize that the planter has not arrived to you in perfect condition.  This is the first time this has happened and we will follow this up with our shipping company.  could you please email us a photo of damaged pot ASAP, so we can arrange the replacement on the way. Thanks
+sweet.button (214
 )
 
-22/7/18franklin.eng was the seller(#1678268158) top trader, aaaaa++ would trade again great products 
-jpkiwi2 (45
+16/8/18derlook-nz was the sellerSold for $413.00(#1722722276) Great Seller! Quick and easy communication and I love our new side board. Highly recommend this seller ??thank you 
+molly403 (77
 )
 
-22/7/18franklin.eng was the seller(#1678223440) top trader, aaaaa++ would trade again 
-awesome products 
-kreggle08 (16
-)
-21/7/18franklin.eng was the seller(#1696648083) Cheers for the fast delivery 
-kreggle08 (16
-)
-21/7/18franklin.eng was the seller(#1693498429) Great trader and fast response cheers 
-krossbonz (45
-)
-20/7/18franklin.eng was the seller(#1703089800) Received today thank you very much 
-cars88 (50
-)
-20/7/18franklin.eng was the seller(#1697598867) quick and easy 
-qtmad (27
-)
-19/7/18franklin.eng was the seller(#1697022567) Good fast trader 
-toyota.mad (50
-)
-19/7/18franklin.eng was the seller(#1688063676) eazy trade 
-frozty1 (187
-)
-19/7/18franklin.eng was the seller(#1674683610) Sweet trade A÷÷÷ 
-chelsea4 (1752
-)
-17/7/18franklin.eng was the seller(#1663121442) awsome trade cheers 
-jessiemcgregor (12
-    )
-17/7/18franklin.eng was the seller(#1659593383) Perfect 
-l_pope (12
-)
-16/7/18franklin.eng was the seller(#1666847134) Great product well price great trader AAAA++++ 
-crg-performance (90
+16/8/18derlook-nz was the sellerSold for $119.00(#1727009664) Excellent trader fast prompt delivery Absolutely love the clock thanks 
+jjl1 (15
 )
 
-16/7/18franklin.eng was the seller(#1685618243) Thanks for the awesome trade! 
-nicksta87 (24
+15/8/18derlook-nz was the seller(#1716842267) Great trade. Very good communication,no hassles. Would highly recommend. 
+delta47 (164
 )
-16/7/18franklin.eng was the seller(#1693555855) good trader, items were received in good time as well. will definately trade with again in the future 
-robdig38 (171
+15/8/18derlook-nz was the sellerSold for $375.00(#1724714598) a+ 
+sorted4 (132
 )
-
-16/7/18franklin.eng was the seller(#1693341684) good trade 
-robdig38 (171
+10/8/18derlook-nz was the seller(#1717978624) Great traders- delivery was super quick! 
+rx300 (147
 )
-
-16/7/18franklin.eng was the seller(#1689912054) good trade 
-jadeandmila (46
+9/8/18derlook-nz was the sellerSold for $119.00(#1722604507) Super fast delivery, would recommend! 
+travelingon (1782
 )
-16/7/18franklin.eng was the seller(#1667081719) Excellent trader 
-kyle-86 (588
+9/8/18derlook-nz was the seller(#1695842926) Easy trade. 
+nellie (44
 )
-14/7/18franklin.eng was the seller(#1655456697) great trade cheers 
-dan028 (30
+8/8/18derlook-nz was the seller(#1714256389) Awesome trade, super quick and easy, great communication. Thank you! 
+setterk9 (38
 )
-
-13/7/18franklin.eng was the seller(#1687621023) Good trader will trade with again 
-eheim (1219
+7/8/18derlook-nz was the seller(#1706252339) Goods arrived promptly and are as ordered. Good trade and recommended. 
+lizzie166 (34
 )
-
-12/7/18franklin.eng was the buyer Excellent trader 10/10 
-eheim (1219
+6/8/18derlook-nz was the seller(#1704222610) Excellent! 
+mgharvey (0
 )
-
-12/7/18franklin.eng was the buyer Excellent trader 10/10 
-dingo1313 (96
-)
-11/7/18franklin.eng was the seller(#1685980438) Awesome trade thanks, great communication with updates the whole way through, tracking number etc. thanks! 
-dopestt (1
-)
-10/7/18franklin.eng was the seller(#1687621023) fast delivery 
-chrisb1965 (873
+6/8/18derlook-nz was the seller(#1720375322) Good communication and would defo recommend to others. One happy buyer here. Thanks til next purchase! 
+kate8884 (681
 )
 
-10/7/18franklin.eng was the seller(#1659374369) Excellent trade, no hassles; highly recommended trader! 
-chrisb1965 (873
+31/7/18derlook-nz was the seller(#1677432081) Thanks for quick and easy trade 
+sarahsimmo (303
 )
 
-10/7/18franklin.eng was the seller(#1659373968) Excellent trade, no hassles, superfast delivery; highly recommended trader!  Latest 1000 feedbacks, showing 101 to 150 <<   1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
+31/7/18derlook-nz was the seller(#1686907302) Thanks for a great service 
+raefore (32
+)
+31/7/18derlook-nz was the seller(#1700504503) Great trade thank you 
+bigboy2221 (203
+)
+
+30/7/18derlook-nz was the seller(#1706179926) very cool looking wall cubes! 
+gurtie83 (731
+)
+
+30/7/18derlook-nz was the seller(#1672283635) great trade cheers 
+jiffev (61
+)
+29/7/18derlook-nz was the seller(#1688061971) Great trade -excellent product 
+ginnyangelajing (95
+)
+29/7/18derlook-nz was the buyer No problem.  Good communication 
+kiwipilotnz (12
+)
+
+26/7/18derlook-nz was the seller(#1688812333) Very happy with the item. Very happy with the seller. Top. 
+jenn_06 (49
+)
+
+25/7/18derlook-nz was the seller(#1696903868) very helpful and friendly, happy with the trade. thanks! 
+99nick99 (189
+)
+24/7/18derlook-nz was the seller(#1699577041) A+++ trade chair great condition and looks fab . Easy trader to deal with would reccomend 
+mja11111 (171
+)
+
+24/7/18derlook-nz was the seller(#1702954066) Great trade. Thanks 
+jriz98 (146
+)
+
+19/7/18derlook-nz was the seller(#1695294940) quick and easy, thank you 
+lynlo (7
+)
+17/7/18derlook-nz was the seller(#1698283475) Good trade, quick delivery , no problems. Thanks. 
+ricardeo (155
+)
+11/7/18derlook-nz was the seller(#1681099948) Great product and fast delivery. Thank you. 
+lilymc (83
+)
+9/7/18derlook-nz was the seller(#1681099920) Excellent & efficient service 
+spillf_tyler (46
+)
+
+9/7/18derlook-nz was the seller(#1665278508) A++ 
+leeanab (401
+)
+
+8/7/18derlook-nz was the seller(#1643689901) Excellent trade. Fast delivery. High quality chair 
+jeremy81 (131
+)
+
+6/7/18derlook-nz was the seller(#1673623101) Easy quick trade 
+jiwenjun (11
+)
+3/7/18derlook-nz was the seller(#1677553019) Best trade, fast and love the product. 
+cpd (95
+)
+3/7/18derlook-nz was the seller(#1673623224) Super happy with our chair..... well packaged and really fast delivery. Effortless trade with a great product for a great price. 
+avgeekboy (167
+)
+
+3/7/18derlook-nz was the seller(#1678921944) Great sale. Thanks. 
+si50 (357
+)
+1/7/18derlook-nz was the seller(#1666039180) Absolutely LOVE the unit! Exactly as photographed and described. Great quality. Prompt communication. Bought on Friday, and delivered in CHCH on Tuesday. 
+pearchie (256
+)
+
+28/6/18derlook-nz was the seller(#1666924632) Excellent trade - so happy with the table. Exceptional service from Derlook - table was delivered in two days. Would trade again. 
+goldstar803 (225
+)
+23/6/18derlook-nz was the seller(#1645611497) Excellent trade thank you 
+classdojo (370
+)
+20/6/18derlook-nz was the seller(#1657566781) Amazing lamp! Great trade! Thanks 
+gc40000 (20
+)
+20/6/18derlook-nz was the seller(#1657561503) Great trade. Very friendly and easy to deal with. 
+manf (231
+)
+
+19/6/18derlook-nz was the seller(#1668078316) Fantastic trade thankyou! Very fast delivery and product exactly as advertised. Happy to highly recommend this trader! 
+angelaoliveira (18
+)
+19/6/18derlook-nz was the seller(#1664832824) I’ve just received my item today and it’s beautiful! Well packed!  
+Great dealer, great communication! Definitely will be back as I have my eyes on other items I would like to have from you store ;)  
+Thanks so much for the great service!  Latest 1000 feedbacks, showing 1 to 50 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
 Note The value of each trade will show for two months from the date of the sale.
 
 
@@ -911,7 +917,7 @@ Contact Us
     -->
     
 var currentCid=0;newSaveSearchButton= false;
-queryParameters = "&memberId=0&optionType=6&query=&regionId=0&districtId=0&cid=0&key=0&sellerId=3897930&sortOrder=&buyFilter=0&conditionFilter=0&payFilter=0&motorsListingTypeFilter=0&returnPath=%2fBrowse%2fStores%2fSEOHandler.ashx%3fstore_name%3dfranklin-engineering-ltd%26page_name%3dfeedback%26page%3d3&isAdvertiser=0&shipping=all&minPrice=0&maxPrice=2147483647&isMapBasedSearch=false";
+queryParameters = "&memberId=0&optionType=6&query=&regionId=0&districtId=0&cid=0&key=0&sellerId=3548703&sortOrder=&buyFilter=0&conditionFilter=0&payFilter=0&motorsListingTypeFilter=0&returnPath=%2fBrowse%2fStores%2fSEOHandler.ashx%3fstore_name%3dderlook-nz%26page_name%3dfeedback%26page%3d1&isAdvertiser=0&shipping=all&minPrice=0&maxPrice=2147483647&isMapBasedSearch=false";
 nonAjaxUrl = "/MyTradeMe/FavouritesNoJavaScript.aspx?nonAjaxAdd=add";
 Favourite = "SellerSubscription";
 TradeMe.favourites.Initialize();
