@@ -1,0 +1,920 @@
+
+
+
+
+
+
+Franklin Engineering Ltd | Trade Me
+
+
+
+
+
+
+
+    if ((parent) && (parent.frames.length > 0)) parent.location.href = self.location.href;
+    
+if(typeof window.TradeMe === 'undefined'){
+  window.TradeMe = {};
+}
+window.TradeMe.BreadCrumbs = 'All-categories';
+window.TradeMe.MemberID = '0';
+
+
+
+
+
+    dataLayer = [{
+  "userId": null,
+  "dpId": null,
+  "email": null,
+  "showLuckyOrange": false,
+  "showLuckyOrangeInSell": false,
+  "abTestEventId": "85531a9e-7ffd-46f7-be70-fa96989454d0"
+}];dataLayer.push({'optOut': false});
+
+
+dataLayer.push({ "showLuckyOrange" : false, 
+                                                           "showLuckyOrangeInSell" : false })var adblock = true;window.trademe = window.trademe || {};trademe.ads = trademe.ads || {};trademe.ads.config = {"isHeaderBiddingEnabled":true,"openWrapProfileId":0,"openWrapTimeout":1500};
+
+
+
+
+
+
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KMC2M2' );
+
+
+
+
+
+Satellite sites
+
+
+Trade Me
+
+
+LifeDirect
+
+
+Trade Me Insurance
+
+
+Holiday Houses
+
+
+Services
+
+
+FindSomeone
+
+
+MotorWeb
+
+
+Harmoney
+
+
+More
+
+
+FindSomeone
+MotorWeb
+Harmoney
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-09-21T12:56:15
+12:56 pm, 21 Sep
+
+Site navigation
+
+
+Browse
+
+
+View category directory
+
+
+
+
+
+Antiques & collectables
+Art
+Baby gear
+Books
+Building & renovation
+Business & industry
+Cars, bikes & boats
+Clothing & fashion
+Computers
+Crafts
+Electronics & photography
+
+
+
+
+Farming
+Flatmates wanted
+Gaming
+Health & beauty
+Home & living
+Jewellery & watches
+Jobs
+Mobile phones
+Movies & TV
+Music & instruments
+Pets & animals
+
+
+
+
+Pottery & glass
+Real estate
+Services
+Sports
+Toys & models
+Travel, events & activities
+
+Stores
+$1 reserve
+Closing soon
+
+Last chance
+
+Hot listings
+
+
+
+
+
+
+Sell
+
+
+
+List a...
+
+General item
+
+Success fees for sold items only.
+
+
+
+
+Car, motorbike or boat
+$9.99 - $99.99 until sold.
+Property
+$359 - $599 until sold. Rentals $99 - $189.
+Job
+$205.85 for 30 days.
+Flatmates wanted
+$9.90 until you find them.
+Service
+$39 for 90 days.
+
+                                        Sell and save on fees
+                                        Sell  general listings with no success fees, plus more exclusive benefits with Choice by Trade Me. Learn more >
+
+
+
+
+
+
+My Trade Me
+
+
+View My Trade Me
+
+
+
+
+                                    Buying
+
+Watchlist
+Won
+Lost
+
+
+Favourites
+Recently viewed
+
+
+
+Listings
+
+Current
+Expired
+
+
+
+Closing today
+
+
+Watchlist
+Favourites
+Recently viewed
+
+
+
+
+
+                                    Selling
+
+Items I'm selling
+Sold
+Unsold
+My products
+
+
+Sales summary
+Payment instructions
+
+
+
+Reporting
+
+Monthly summary
+Export agent reports
+Export job reports
+
+Current subscription listings:
+Listings this month:
+Monthly plan: 
+Prepaid listings remaining: 
+Prepaid branding remaining: 
+Prepaid features remaining: 
+Prepaid promoted listings remaining: 
+Buy a job pack
+
+
+Account
+
+
+
+
+
+
+
+
+
+
+Manage
+
+
+
+Trade Me account
+
+Add credit 
+
+Pay Now & Afterpay
+
+
+View statement
+
+
+
+
+
+Professional seller?
+
+Try My Products, a free Trade Me tool that helps you manage your listings. 
+
+Get started
+
+
+
+
+
+Community
+
+
+View community
+
+
+
+
+Announcements
+Message board
+Help
+
+
+
+
+
+
+
+
+
+RegisterLog in
+
+
+
+
+
+
+
+
+Search Trade Me
+
+
+
+
+
+
+
+
+in this store's listings
+
+
+All categories
+This store's listings
+
+Antiques & collectables
+Art
+Baby gear
+Books
+Building & renovation
+Business, farming & industry
+Cars, bikes & boats
+Clothing & Fashion
+Computers
+Crafts
+Electronics & photography
+Farming
+Flatmates wanted
+Gaming
+Health & beauty
+Home & living
+Jewellery & watches
+Jobs
+Mobile phones
+Movies & TV
+Music & instruments
+Pets & animals
+Pottery & glass
+Real estate
+Services
+Sports
+Toys & models
+Travel, events & activities
+
+Site help
+Members
+
+
+
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Search expired listings
+
+
+
+
+Watchlist
+
+
+
+
+All
+
+
+
+
+
+
+Favourites
+
+
+
+
+
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+    var globalCartDetailsJson = {"buyerId":0,"totalListings":0} ;
+
+
+
+    $(document).ready(function() {
+        var cartButton = document.getElementById("cart-button");
+        var cookies = new cookieManager.Instance();
+        if (cartButton) {
+            cartButton.onclick = function() {
+                cookies.setCookie('previousUrl', document.referrer, 1, "/");
+                cookies.setCookie('currentPath', '/Browse/Stores/SEOHandler.ashx', 1, "/");
+                cookies.setCookie('currentUrl', document.location.href, 1, "/");
+            }
+        }
+    });
+
+
+    function onSubmitHandler() {
+
+        // Disable the submit button
+        $('form').find('button[type=submit]').prop('disabled', true);
+        
+        // If we are searching within a promotion
+        var dropSelectElement = $('.drop-select');
+        var chosenOption = $(':selected', dropSelectElement);
+        if (chosenOption.html().toLowerCase().indexOf("promotion") >= 0) {
+            // update the form action
+            document.generalSearch.action = document.location.origin + "/Browse/Deals/DealsHome.aspx";
+
+            // and add a hidden field to take the search to the correct deal (the current one).
+            var dealFormField = document.createElement("input");
+            dealFormField.type = "hidden";
+            dealFormField.name = "deal_promotion_id";
+            dealFormField.value = "";
+            document.generalSearch.appendChild(dealFormField);
+
+            var conditionFormField = document.createElement("input");
+            conditionFormField.type = "hidden";
+            conditionFormField.name = "condition";
+            conditionFormField.value = "";
+            document.generalSearch.appendChild(conditionFormField);
+        }
+
+    }
+
+
+
+    $(document).ready(function () {
+        SiteClock.start();
+    });
+
+
+
+
+
+
+
+
+
+
+  .stores-favorite {
+      margin-left: 7px;
+      margin-top: 20px;
+  }  
+  
+  .help-pages-seperator {
+      border-bottom: 1px solid #ccc;
+      margin-top: 10px;
+  }
+
+
+
+
+
+Store help
+
+
+About the storePaymentsShippingReturnsFAQsFeedback
+
+
+
+
+
+
+
+        // Variables set by the application
+        var isSaved = false;
+        var isSignedIn = false;
+
+        var listingId = 0;
+        var listingType = "";
+        var useCookies = false;
+
+        var saveParamter1 = 0;
+        var isDefault1 = false;
+
+        var requestSentTime = null;
+
+    
+
+
+ Save this seller
+
+
+Saved
+            
+View My Favourites
+
+
+
+
+
+
+
+
+
+
+
+Buying
+
+Watchlist
+Items I won
+Items I lost
+My favourites
+Recently viewed
+
+
+Selling
+
+List an item
+Items I'm selling
+Sold items
+Unsold items
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Franklin Engineering Ltd >
+                
+
+                    Feedback
+                
+
+
+Feedback
+
+		.tabs {
+			width: 100%;
+			border-collapse:collapse !important;
+			border-width: 0;
+			padding: 10px 0 0 0;
+			margin:10px 0 0 0 ;
+		}
+		.tabs td {
+			margin:0 ;
+			padding:0 ;
+			font-weight:bold;
+			white-space: nowrap;
+		}
+		.tabs .filler {
+			width: 100%;
+		}
+		.feedback-breaker {
+		    width: 100%; 
+		    border-bottom: 3px solid #C60; 
+		    margin-top: 20px;
+		}
+                .feedback-item {
+           width: 550px;
+            color: #063;
+       }
+        .feedback-response {
+            width: 100%;
+            color: #930;
+       }
+       .wordwrap {
+                       white-space: pre-wrap;      /* CSS3 */   
+            white-space: -moz-pre-wrap; /* Firefox */    
+            white-space: -pre-wrap;     /* Opera <7 */   
+            white-space: -o-pre-wrap;   /* Opera 7 */    
+            word-wrap: break-word;      /* IE */
+         }
+		
+
+2871 positive feedbacks. 2139 are from individual members, and count towards the final rating.2 neutral feedbacks. 6 negative feedbacks. 6 are from individual members, and count towards the final rating.Last logged in: 21 September 2018Member since: July 2011Listings in the last two months: 1096Final rating: 2139 - 6 = 2133Is an authenticated member 
+
+ Latest 1000 feedbacks, showing 101 to 150 <<   1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
+ 
+onebigc (81
+)
+1/8/18franklin.eng was the seller(#1713230053) awesome trader a++ 
+rosm1 (269
+)
+31/7/18franklin.eng was the seller(#1685776043) Easy fast trade 
+vegaslife (12
+)
+30/7/18franklin.eng was the seller(#1708930121) A++++++ 
+vegaslife (12
+)
+30/7/18franklin.eng was the seller(#1708676592) A+++++ 
+greg45 (422
+)
+
+29/7/18franklin.eng was the seller(#1705337159) Grteat fast trade. thanks 
+rmack47 (155
+)
+28/7/18franklin.eng was the seller(#1703504447) perfect fit and arrived overnight 
+onebigc (81
+)
+28/7/18franklin.eng was the seller(#1706735307) awesome trader 
+haydn264 (11
+)
+28/7/18franklin.eng was the seller(#1675167434) Great trade 
+haydn264 (11
+)
+28/7/18franklin.eng was the seller(#1674682584) Great trade 
+haydn264 (11
+)
+28/7/18franklin.eng was the seller(#1674690834) Great trade 
+haydn264 (11
+)
+28/7/18franklin.eng was the seller(#1670296472) Great trade 
+haydn264 (11
+)
+28/7/18franklin.eng was the seller(#1670130560) Great trade 
+haydn264 (11
+)
+28/7/18franklin.eng was the seller(#1673757291) Great trade 
+haydn264 (11
+)
+28/7/18franklin.eng was the seller(#1670834034) Great trade 
+haydn264 (11
+)
+28/7/18franklin.eng was the seller(#1673603040) Great trade 
+wls99 (10
+)
+27/7/18franklin.eng was the seller(#1707782747) Great communication, quick delivery, awesome trade 
+vanhaa (7
+)
+27/7/18franklin.eng was the seller(#1692049607) Great trader, great product and outstanding quality, very happy thanks 
+coke444 (64
+)
+
+26/7/18franklin.eng was the seller(#1682257629) Awesome trade. 
+jrolla323 (133
+)
+26/7/18franklin.eng was the seller(#1701027847) Awsum trader cheers 
+jrolla323 (133
+)
+26/7/18franklin.eng was the seller(#1698941613) Awsum trader cheers 
+midenightblue (6
+)
+25/7/18franklin.eng was the seller(#1704525057) great trader 
+k.doggg (18
+)
+25/7/18franklin.eng was the seller(#1677921539) Good trade ???? 
+harryjay (890
+)
+
+24/7/18franklin.eng was the seller(#1694591007) Great Trade. A++ 
+jpkiwi2 (45
+)
+
+22/7/18franklin.eng was the seller(#1682260497) top trader, aaaaa++ would trade again 
+highly recommend 
+jpkiwi2 (45
+)
+
+22/7/18franklin.eng was the seller(#1678240886) top trader, aaaaa++ would trade again good quality 
+jpkiwi2 (45
+)
+
+22/7/18franklin.eng was the seller(#1678268158) top trader, aaaaa++ would trade again great products 
+jpkiwi2 (45
+)
+
+22/7/18franklin.eng was the seller(#1678223440) top trader, aaaaa++ would trade again 
+awesome products 
+kreggle08 (16
+)
+21/7/18franklin.eng was the seller(#1696648083) Cheers for the fast delivery 
+kreggle08 (16
+)
+21/7/18franklin.eng was the seller(#1693498429) Great trader and fast response cheers 
+krossbonz (45
+)
+20/7/18franklin.eng was the seller(#1703089800) Received today thank you very much 
+cars88 (50
+)
+20/7/18franklin.eng was the seller(#1697598867) quick and easy 
+qtmad (27
+)
+19/7/18franklin.eng was the seller(#1697022567) Good fast trader 
+toyota.mad (50
+)
+19/7/18franklin.eng was the seller(#1688063676) eazy trade 
+frozty1 (187
+)
+19/7/18franklin.eng was the seller(#1674683610) Sweet trade A÷÷÷ 
+chelsea4 (1752
+)
+17/7/18franklin.eng was the seller(#1663121442) awsome trade cheers 
+jessiemcgregor (12
+    )
+17/7/18franklin.eng was the seller(#1659593383) Perfect 
+l_pope (12
+)
+16/7/18franklin.eng was the seller(#1666847134) Great product well price great trader AAAA++++ 
+crg-performance (90
+)
+
+16/7/18franklin.eng was the seller(#1685618243) Thanks for the awesome trade! 
+nicksta87 (24
+)
+16/7/18franklin.eng was the seller(#1693555855) good trader, items were received in good time as well. will definately trade with again in the future 
+robdig38 (171
+)
+
+16/7/18franklin.eng was the seller(#1693341684) good trade 
+robdig38 (171
+)
+
+16/7/18franklin.eng was the seller(#1689912054) good trade 
+jadeandmila (46
+)
+16/7/18franklin.eng was the seller(#1667081719) Excellent trader 
+kyle-86 (588
+)
+14/7/18franklin.eng was the seller(#1655456697) great trade cheers 
+dan028 (30
+)
+
+13/7/18franklin.eng was the seller(#1687621023) Good trader will trade with again 
+eheim (1219
+)
+
+12/7/18franklin.eng was the buyer Excellent trader 10/10 
+eheim (1219
+)
+
+12/7/18franklin.eng was the buyer Excellent trader 10/10 
+dingo1313 (96
+)
+11/7/18franklin.eng was the seller(#1685980438) Awesome trade thanks, great communication with updates the whole way through, tracking number etc. thanks! 
+dopestt (1
+)
+10/7/18franklin.eng was the seller(#1687621023) fast delivery 
+chrisb1965 (873
+)
+
+10/7/18franklin.eng was the seller(#1659374369) Excellent trade, no hassles; highly recommended trader! 
+chrisb1965 (873
+)
+
+10/7/18franklin.eng was the seller(#1659373968) Excellent trade, no hassles, superfast delivery; highly recommended trader!  Latest 1000 feedbacks, showing 101 to 150 <<   1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
+Note The value of each trade will show for two months from the date of the sale.
+
+
+
+
+
+
+
+
+
+
+
+
+Back to top
+
+Desktop
+Mobile
+
+© 2018 Trade Me Limited
+
+
+
+
+                (function () {
+                    window.onload = function(){
+                        var frameName = new ds07o6pcmkorn({
+                            openElementId: ".hidden-element-link"
+                        });
+                        frameName.init();
+                    }
+                })();
+            
+
+
+
+
+
+Browse
+Sell
+My Trade Me
+Community
+Help
+
+
+Announcements
+Trust & Safety
+Seller Information
+Advertise
+Apps
+
+
+About Us
+Careers
+Investor Relations
+Policies
+Contact Us
+
+
+
+
+
+
+
+
+
+    //<![CDATA[
+    
+    (function($) {
+        $(document).ready(function() {
+         
+            $('.drop-select').dropdown();
+            $('input').placeholder();
+            $('#searchString').ubersuggest({offsetElement: $('.main-search-control')});
+           
+            //Insertion point for adding document.ready javascript 
+            
+            //Insertion point for loading remote javascript files
+            
+           
+        });
+        
+        $(window).load(function() {
+            if (TradeMe.init != undefined)
+            {
+                TradeMe.init();
+            }
+           
+            //Insertion point for adding window.load javascript 
+            
+            //Insertion point for loading remote javascript files
+            
+        
+        });
+
+         
+    })(jQuery);
+   
+//]]>
+
+
+
+
+        <!--
+        if (typeof (Ads) != "undefined") { jQuery(window).load(function () { Ads.populateAds('eyJzIjowLCJtIjoiIiwibWlkIjowLCJtaXAiOiIxMjIuNTkuODAuMjYiLCJwIjoiL0JST1dTRS9TVE9SRVMvU0VPSEFORExFUi5BU0hYIiwic292IjowLCJnIjoiQiIsImJpZCI6MCwiciI6IjIiLCJyZXMiOjAsImN0IjowLCJiZHQiOjAsInNiIjoiIiwicGMiOiIiLCJkcGlkIjowLCJoYXNoIjpudWxsLCJtYXQiOiIifQ=='); }); }
+    -->
+    
+var currentCid=0;newSaveSearchButton= false;
+queryParameters = "&memberId=0&optionType=6&query=&regionId=0&districtId=0&cid=0&key=0&sellerId=3897930&sortOrder=&buyFilter=0&conditionFilter=0&payFilter=0&motorsListingTypeFilter=0&returnPath=%2fBrowse%2fStores%2fSEOHandler.ashx%3fstore_name%3dfranklin-engineering-ltd%26page_name%3dfeedback%26page%3d3&isAdvertiser=0&shipping=all&minPrice=0&maxPrice=2147483647&isMapBasedSearch=false";
+nonAjaxUrl = "/MyTradeMe/FavouritesNoJavaScript.aspx?nonAjaxAdd=add";
+Favourite = "SellerSubscription";
+TradeMe.favourites.Initialize();
+if (!window.trademe || !trademe.ads || !trademe.ads.dataLayerSet) {window.trademe = window.trademe || {};trademe.ads = trademe.ads || {};trademe.ads.dataLayer = {"adUnitCode":"150718986/tm-web/gi/stores","keyValues":{"p":["2"],"env":["production"],"ptype":["search"]},"kvp":null,"mCatPath":["gi","stores"],"ppid":""};trademe.ads.dataLayerSet = true;}
+
+
