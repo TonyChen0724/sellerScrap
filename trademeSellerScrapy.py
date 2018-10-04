@@ -71,14 +71,18 @@ def startMakingCSV(url, pageNum, sellerName):
             productNames.append("noName")
 
         try:
-            productPrice = soup.find("div", {"id": "BuyNow_BuyNow"}).get_text()
+            productPrice = soup.find("div", {"id": "BuyNow_BuyNow"}).get_text().replace('$', '').replace(',', '')
+            if productPrice != "noPrice":
+                productPrice = float(productPrice)
+            else:
+                productPrice = -1.0
             productPrices.append(productPrice)
             print(productPrice)
 
         except AttributeError as e:
             try:
-                productPrice = soup.find("div", {"id": "Bidding_CurrentBidValue"}).get_text()
-                productPrices.append(productPrice)
+                productPrice = soup.find("div", {"id": "Bidding_CurrentBidValue"}).get_text().replace('$', '').replace(',', '')
+                productPrices.append(float(productPrice))
                 print(productPrice)
                 print("noPrice-" + productPrice)
             except AttributeError as e:
@@ -99,10 +103,38 @@ def startMakingCSV(url, pageNum, sellerName):
     except ValueError:
         pass
 
-    print(len(productNames))
-    print(len(productPrices))
+    print(percentile_list)
+    productFrequency = percentile_list.productName.value_counts()
 
-    percentile_list.to_csv(sellerName)
+    values = productFrequency.keys().tolist()
+    counts = productFrequency.tolist()
+    frequencyPrices = [percentile_list.loc[percentile_list['productName'] == s, 'productPrice'].iloc[0] for s in values]
+
+    frequencyURL = [percentile_list.loc[percentile_list['productName'] == s, 'page_urls'].iloc[0] for s in values]
+
+    quantityToplist = pd.DataFrame(
+        {'productName': values,
+         'productsold': counts,
+         'product_url': frequencyURL
+         })
+
+    quantityToplist.to_csv(sellerName + "quantityTopList.csv")
+    counts = [float(c) for c in counts]
+    from itertools import zip_longest
+    product_volumn = [x * y for x, y in (zip_longest(frequencyPrices, counts, fillvalue=1))]
+
+    volumnTopList = pd.DataFrame(
+        {'productName': values,
+         'productVolumn': product_volumn,
+         'product_url': frequencyURL
+         })
+
+    volumnTopList = volumnTopList.sort_values(by=['productVolumn'], ascending=False)
+
+
+    volumnTopList.to_csv(sellerName + "volumnTopList.csv")
+
+    percentile_list.to_csv(sellerName + ".csv")
 
 
 
