@@ -4,8 +4,23 @@ import re
 
 
 def page_url_produce(url, index):
-    page1_url_prefix= url.split('=')[0] + "="
+    page1_url_prefix = ""
+    if "member" in url:
+
+        if "page" not in url:
+            page1_url_prefix = url + "&type=&page="
+
+        else:
+            splitedurlForMember = url.split('&')
+            page1_url_prefix = splitedurlForMember[0] + "&" + splitedurlForMember[1] + "&page="
+
+    else:
+        if "page" not in url:
+            page1_url_prefix = url + "?page="
+        else:
+            page1_url_prefix= url.split('=')[0] + "="
     page1_url_extension = str(index)
+
     page1_url = page1_url_prefix + page1_url_extension
     return page1_url
 

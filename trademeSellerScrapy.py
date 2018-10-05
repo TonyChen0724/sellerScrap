@@ -125,6 +125,8 @@ def startMakingCSV(url, pageNum, sellerName):
 
     volumnTopList = pd.DataFrame(
         {'productName': values,
+         'productQuantity': counts,
+         'productPrice': frequencyPrices,
          'productVolumn': product_volumn,
          'product_url': frequencyURL
          })
