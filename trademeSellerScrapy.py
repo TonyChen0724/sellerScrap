@@ -45,11 +45,13 @@ def read_url(url):
 
 
 def startMakingCSV(url, pageNum, sellerName):
+    # global percentile_list
     testList = gatherIDList(url, int(pageNum))
     page1_url_prefix = "https://www.trademe.co.nz/"
     productNames = []
     productPrices = []
     page_urls = []
+    productClosingTimes = []
 
     for listID in testList:
         appendix = listID[1:]
@@ -89,6 +91,18 @@ def startMakingCSV(url, pageNum, sellerName):
                 productPrices.append("noPrice")
                 print("noPrice")
 
+        # try:
+        #     productClosingTime = soup.find("div", {"id": "ClosingTime_ClosingTime"}).get_text()
+
+
+        try:
+            productClosingTime = soup.find("span", {"id": "ClosingTime_ClosingTime"}).get_text()
+            productClosingTimes.append(productClosingTime)
+            print(productClosingTime)
+        except AttributeError as e:
+            print("noTime")
+            productClosingTimes.append("noTime")
+
 
         print("----------------------------------------------------")
 
@@ -97,7 +111,8 @@ def startMakingCSV(url, pageNum, sellerName):
     try:
         percentile_list = pd.DataFrame(
             {'productName': productNames,
-            'productPrice': productPrices,
+             'productPrice': productPrices,
+             'productClosingTime': productClosingTimes,
              'page_urls': page_urls
             })
     except ValueError:
@@ -109,17 +124,22 @@ def startMakingCSV(url, pageNum, sellerName):
     values = productFrequency.keys().tolist()
     counts = productFrequency.tolist()
     frequencyPrices = [percentile_list.loc[percentile_list['productName'] == s, 'productPrice'].iloc[0] for s in values]
-
+    frequencyClosingTime = [percentile_list.loc[percentile_list['productName'] == s, 'productClosingTime'].iloc[0] for s in values]
+    frequencyPrices = [float(_) for _ in frequencyPrices]
     frequencyURL = [percentile_list.loc[percentile_list['productName'] == s, 'page_urls'].iloc[0] for s in values]
 
     quantityToplist = pd.DataFrame(
         {'productName': values,
          'productsold': counts,
+         'productprices': frequencyPrices,
+         'closingTime': frequencyClosingTime,
          'product_url': frequencyURL
+
          })
 
     quantityToplist.to_csv(sellerName + "quantityTopList.csv")
-    counts = [float(c) for c in counts]
+    counts = [float(_) for _ in counts]
+
     from itertools import zip_longest
     product_volumn = [x * y for x, y in (zip_longest(frequencyPrices, counts, fillvalue=1))]
 
@@ -128,6 +148,7 @@ def startMakingCSV(url, pageNum, sellerName):
          'productQuantity': counts,
          'productPrice': frequencyPrices,
          'productVolumn': product_volumn,
+         'closingTime': frequencyClosingTime,
          'product_url': frequencyURL
          })
 
