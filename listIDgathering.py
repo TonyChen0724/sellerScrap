@@ -53,6 +53,8 @@ def id_extract(page1_url):
     textfile.write(soup_content)
     textfile.close()
 
+
+
     with open('listIDHTMLPage.txt') as f:
         ans = []
         for line in f:
@@ -62,14 +64,48 @@ def id_extract(page1_url):
 
     return ans
 
+# (([0-3][0-9])|[0-9])/(([0-3][0-9])|[0-9])/[0-3][0-9]
+def date_extract(page1_url):
+
+    soup = read_url(page1_url)
+    soup_content = soup.get_text()
+
+    textfile = open('listIDHTMLPage.txt', 'w')
+    textfile.write(soup_content)
+    textfile.close()
+
+
+
+    with open('listIDHTMLPage.txt') as f:
+        ans = []
+        for line in f:
+
+            matches = re.findall(r'(([0-3][0-9])|[0-9])/(([0-3][0-9])|[0-9])/([0-3][0-9])', line)
+            matches = list(matches)
+
+            if (len(matches) != 0):
+                while '' in matches:
+                    matches.remove('')
+                res = matches[0] + '/' + matches[1] + '/' + matches[2]   # how to convert turple to list
+
+                ans.append(res)
+
+
+    return ans
+
+
 def gatherIDList(url, pageNumber):
     sellIDList = []
+    sellDateList = []
     for i in range(1, pageNumber):
         page1_url = page_url_produce(url, i)
         returnedList = id_extract(page1_url)
+        returneddate = date_extract(page1_url)
         sellIDList += returnedList
+        sellDateList += returneddate
 
-    print(sellIDList)
+    print(len(sellIDList))
+    print(len(sellDateList))
     return sellIDList
 
 # gatherIDList(19)

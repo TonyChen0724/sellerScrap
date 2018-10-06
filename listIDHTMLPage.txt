@@ -30,7 +30,7 @@ window.TradeMe.MemberID = '0';
   "email": null,
   "showLuckyOrange": false,
   "showLuckyOrangeInSell": false,
-  "abTestEventId": "40dd10f5-39d6-426e-9ea7-ce54686f04a7"
+  "abTestEventId": "f0799821-3281-4aa8-b369-26daf2ea8a7c"
 }];dataLayer.push({'optOut': false});
 
 
@@ -103,8 +103,8 @@ Harmoney
 
 
 
-2018-10-06T13:25:39
-1:25 pm, 6 Oct
+2018-10-06T15:39:00
+3:39 pm, 6 Oct
 
 Site navigation
 
@@ -646,10 +646,18 @@ Feedback
          }
 		
 
-4426 positive feedbacks. 3700 are from individual members, and count towards the final rating.3 neutral feedbacks. 0 negative feedbacks. Last logged in: 6 October 2018Member since: April 2011Listings in the last two months: 1119Final rating: 3700 - 0 = 3700Is an authenticated member 
+4428 positive feedbacks. 3702 are from individual members, and count towards the final rating.3 neutral feedbacks. 0 negative feedbacks. Last logged in: 6 October 2018Member since: April 2011Listings in the last two months: 1123Final rating: 3702 - 0 = 3702Is an authenticated member 
 
  Latest 1000 feedbacks, showing 1 to 50 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
  
+rnb23 (84
+)
+6/10/18360link was the sellerSold for $1,111.00(#1782463566) Apparently? 
+ 
+I had entered $8500 instead of $850 in the auto bid, i Offered to pay all fees to re list the item as i had made the error but was not accepted. Fair enough feedback as i cant give you that time back for the auction. 
+newwayauto (16
+)
+6/10/18360link was the seller(#1781969250) Good trade thanks 
 ocearna (6756
 )
 
@@ -818,13 +826,7 @@ tooks4 (75
 19/9/18360link was the seller(#1749774451) good fast trade awesome 
 mother5 (2357
 )
-19/9/18360link was the seller(#1765422542) A+ 
-mother5 (2357
-)
-19/9/18360link was the seller(#1765422473) Quick delivery and great communication A+ 
-uro127 (33
-)
-19/9/18360link was the seller(#1756486642) 100% great trader  Latest 1000 feedbacks, showing 1 to 50 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
+19/9/18360link was the seller(#1765422542) A+  Latest 1000 feedbacks, showing 1 to 50 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  >>
 Note The value of each trade will show for two months from the date of the sale.
 
 
