@@ -1,2 +1,2 @@
 # sellerScrap
-Scrap all products selled by a seller in trademe
+example code of scraping trademe.
