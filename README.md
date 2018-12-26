@@ -1,2 +1,2 @@
 # sellerScrap
-example code of scraping trademe.
+Example code of scraping trademe.
